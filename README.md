@@ -44,7 +44,7 @@ If you’re using this demo, please **★Star** this repository to show your int
 
    ```sh
    export PROJECT_ID=<PROJECT_ID>
-   export REGION=us-central1
+   export REGION=australia-southeast1
    gcloud services enable container.googleapis.com \
      --project=${PROJECT_ID}
    ```
